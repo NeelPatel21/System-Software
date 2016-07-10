@@ -1,0 +1,7 @@
+int
+par
+inx
+125
++
+double
+volatile
